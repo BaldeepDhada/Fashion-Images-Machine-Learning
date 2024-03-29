@@ -1,5 +1,5 @@
-#Fashion Images Machine Learning Analysis
-##By: Baldeep Dhada
+# Fashion Images Machine Learning Analysis
+## By: Baldeep Dhada
 
 - Analyzing fashion images using machine learning techniques such as NMF, PCA, and Regression Trees in R. 
 - The raw images produced are compared with the reconstructed images from PCA and NMF. 
